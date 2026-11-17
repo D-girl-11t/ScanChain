@@ -1,0 +1,5 @@
+# Course-provided AES core binaries and exam handout are not redistributed
+aes_scan_exam_*
+*.exe
+*.pdf
+__pycache__/
